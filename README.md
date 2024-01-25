@@ -14,7 +14,7 @@ Show if the numlock key is active or not. Via a plasmoid or via the systray.
 - command and symbol configurable
 
 ## Installation
-- Download via [the KDE store](https://www.pling.com/p/)
+- Download via [the KDE store](https://www.pling.com/p/2124761/)
 - Download the last release and extract it and place the folder into `~/.local/share/plasma/plasmoids/`
 
 ## Configuration
@@ -47,9 +47,9 @@ Do not hesitate to open a pr or an issue. I reply when I can.
 ## Want to support my work?
 
 - [Give me a tips](https://ko-fi.com/a2n00)
-- [Give a star on github](https://github.com/bouteillerAlan)
-- [Add a rating and a comment on Pling](https://www.pling.com/p/)
-- [Become a fan on Pling](https://www.pling.com/p/)
+- [Give a star on github](https://github.com/bouteillerAlan/a2n.keystatus.plasmoid)
+- [Add a rating and a comment on Pling](https://www.pling.com/p/2124761/)
+- [Become a fan on Pling](https://www.pling.com/p/2124761/)
 - Or just participate to the developement :D
 
 ### Thanks !
